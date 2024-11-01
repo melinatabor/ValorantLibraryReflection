@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE44AE20-3E44-4976-B1D7-0F1400B7E722}</ProjectGuid>
+    <ProjectGuid>{8E965DD4-32E2-4E4B-936F-DAA7F0161BB0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ValorantLibrary</RootNamespace>
